@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c087ec3-dbe6-4b00-964c-589969d62a4b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WK5ACH4xBeZ5GKJEOTErq6xTnP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/adverStat/src/main/scala" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3494253" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/adverStat/src/main/scala" />
+      <recent name="$PROJECT_DIR$/areaStat/src/main/scala" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AdverStat">
+    <configuration name="AdverStat" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="AdverStat" />
+      <module name="adverStat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MockRealTimeData" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="MockRealTimeData" />
+      <module name="mock" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="adverBlackTest" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="adverBlack1" />
+      <module name="adverStat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="provinceCityClickStat" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="provinceCityClickStat2" />
+      <module name="adverStat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="provincePopular" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="provincePopular3" />
+      <module name="adverStat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AdverStat" />
+        <item itemvalue="Application.provincePopular" />
+        <item itemvalue="Application.provinceCityClickStat" />
+        <item itemvalue="Application.adverBlackTest" />
+        <item itemvalue="Application.MockRealTimeData" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c087ec3-dbe6-4b00-964c-589969d62a4b" name="Default Changelist" comment="" />
+      <created>1578015375899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578015375899</updated>
+      <workItem from="1578015379692" duration="1350000" />
+      <workItem from="1578016923482" duration="4841000" />
+      <workItem from="1578036997512" duration="818000" />
+      <workItem from="1578037828395" duration="29975000" />
+      <workItem from="1578878371460" duration="3333000" />
+      <workItem from="1578885301637" duration="575000" />
+      <workItem from="1578885910980" duration="1489000" />
+      <workItem from="1578894839627" duration="1001000" />
+      <workItem from="1578895882918" duration="36000" />
+      <workItem from="1578895993218" duration="66000" />
+      <workItem from="1578896063503" duration="27000" />
+      <workItem from="1578896115558" duration="118000" />
+      <workItem from="1578896324219" duration="260000" />
+      <workItem from="1578896814231" duration="14932000" />
+      <workItem from="1578972463926" duration="7107000" />
+      <workItem from="1579056964327" duration="655000" />
+      <workItem from="1579076903468" duration="5000" />
+      <workItem from="1579077354159" duration="24379000" />
+      <workItem from="1581424619169" duration="828000" />
+      <workItem from="1581428875410" duration="3176000" />
+      <workItem from="1581749916767" duration="118000" />
+      <workItem from="1581751202571" duration="675000" />
+      <workItem from="1582018726953" duration="608000" />
+      <workItem from="1582116810348" duration="12023000" />
+      <workItem from="1582267648438" duration="10467000" />
+      <workItem from="1582351184699" duration="4015000" />
+      <workItem from="1582371356303" duration="3384000" />
+      <workItem from="1582522781406" duration="5797000" />
+      <workItem from="1582534440134" duration="233000" />
+      <workItem from="1582590774436" duration="4808000" />
+      <workItem from="1582598246795" duration="177000" />
+      <workItem from="1582852836849" duration="846000" />
+      <workItem from="1582872143131" duration="167000" />
+      <workItem from="1582874107949" duration="1122000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Auto_Import" timestamp="1582274403258">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Auto_Import/0.0.1440.900@0.0.1440.900" timestamp="1582274403258" />
+    <state x="552" y="141" key="#Scala" timestamp="1582273216500">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="552" y="141" key="#Scala/0.0.1440.900@0.0.1440.900" timestamp="1582273216500" />
+    <state x="407" y="127" key="#SessionStat" timestamp="1578895312827">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="407" y="127" key="#SessionStat/0.0.1440.900@0.0.1440.900" timestamp="1578895312827" />
+    <state x="458" y="223" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1582594440451">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="223" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1440.900@0.0.1440.900" timestamp="1582594440451" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578886283811">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1578886283811" />
+    <state x="334" y="146" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1579077619517">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="334" y="146" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1440.900@0.0.1440.900" timestamp="1579077619517" />
+    <state x="429" y="166" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1579228024959">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="429" y="166" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1440.900@0.0.1440.900" timestamp="1579228024959" />
+    <state width="1398" height="225" key="GridCell.Tab.0.bottom" timestamp="1582534673379">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="225" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582534673379" />
+    <state width="1398" height="226" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1579228674068" />
+    <state width="1398" height="225" key="GridCell.Tab.0.center" timestamp="1582534673378">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="225" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582534673378" />
+    <state width="1398" height="226" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1579228674065" />
+    <state width="1398" height="225" key="GridCell.Tab.0.left" timestamp="1582534673377">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="225" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582534673377" />
+    <state width="1398" height="226" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1579228674063" />
+    <state width="1398" height="225" key="GridCell.Tab.0.right" timestamp="1582534673378">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="225" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582534673378" />
+    <state width="1398" height="226" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1579228674066" />
+    <state width="1398" height="294" key="GridCell.Tab.1.bottom" timestamp="1579251493942">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="294" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579251493942" />
+    <state width="1398" height="294" key="GridCell.Tab.1.center" timestamp="1579251493942">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="294" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1579251493942" />
+    <state width="1398" height="294" key="GridCell.Tab.1.left" timestamp="1579251493941">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="294" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1579251493941" />
+    <state width="1398" height="294" key="GridCell.Tab.1.right" timestamp="1579251493942">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="294" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1579251493942" />
+    <state x="227" y="56" key="SettingsEditor" timestamp="1582269023451">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="227" y="56" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1582269023451" />
+    <state x="378" y="207" width="741" height="486" key="find.popup" timestamp="1582874133631">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="378" y="207" width="741" height="486" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1582874133631" />
+    <state x="136" y="58" key="new project wizard" timestamp="1579077610898">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="136" y="58" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1579077610898" />
+  </component>
+</project>
