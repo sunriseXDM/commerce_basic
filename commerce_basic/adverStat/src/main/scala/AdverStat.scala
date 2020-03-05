@@ -17,7 +17,27 @@ object AdverStat {
 
   def main(args: Array[String]): Unit = {
 
-    val sparkConf = new SparkConf().setAppName("adver").setMaster("local[*]")
+    /**
+      * --num-executors 80 \
+      * --driver-cores \
+      * --driver-memory 6g \
+      * --executor-memory 6g \
+      * --executor-cores 3 \
+      */
+    val sparkConf = new SparkConf()
+      .setAppName("adver")
+      .setMaster("local[*]")
+      .set("spark.default.parallelism", "500")
+      .set("spark.locality.wait", "6")
+      .set("spark.shuffle.file.buffer", "64")
+      .set("spark.reducer.maxSizeInFlight", "96")
+      .set("spark.shuffle.io.maxRetries", "6")
+      .set("spark.shuffle.io.retryWait", "60s")
+      .set("spark.shuffle.sort.bypassMergeThreshold", "400")
+      .set("spark.yarn.executor.memoryOverhead","2048")
+      .set("spark.core.connection.ack.wait.timeout","300")
+      .set("spark.driver.extraJavaOptions","-XX:PermSize=128M -XX:MaxPermSize=256M")
+
     val sparkSession = SparkSession.builder().config(sparkConf).enableHiveSupport().getOrCreate()
 
     // val streamingContext = StreamingContext.getActiveOrCreate(checkpointDir, func)
@@ -85,8 +105,8 @@ object AdverStat {
     //TODO Seconds(5)的倍数
     adRealTimeFilterDStream.checkpoint(Duration(10000))
 
-    // 需求一：实时维护黑名单
-    //generateBlackList(adRealTimeFilterDStream)
+    // 需求一：实时维护黑名单 将每天对某个广告点击超过 100 次的用户拉黑
+    generateBlackList(adRealTimeFilterDStream)
 
     // 需求二：各省各城市一天中的广告点击量（累积统计）
     val key2ProvinceCityCountDStream = provinceCityClickStat(adRealTimeFilterDStream)
@@ -320,6 +340,7 @@ object AdverStat {
         val clickCount = AdUserClickCountDAO.findClickCountByMultiKey(date, userId, adid)
 
         if(clickCount > 100){
+          //filter true的组建新的dstream 这里为了筛选出黑名单
           true
         }else{
           false
